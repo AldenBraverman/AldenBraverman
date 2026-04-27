@@ -25,6 +25,7 @@ jobs:
           PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           PROFILE_STATS_USERNAME: ${{ github.repository_owner }}
+          PROFILE_STATS_RECENT_DAYS: "180"
         run: python ".github/scripts/generate_profile_stats.py"
 
       - name: Commit generated stats artifacts
