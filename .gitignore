@@ -1,0 +1,3 @@
+.github/scripts/__pycache__/
+*.pyc
+.github/scripts/__pycache__/generate_profile_stats.cpython-314.pyc

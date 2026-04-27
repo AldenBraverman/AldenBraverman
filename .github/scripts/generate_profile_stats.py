@@ -184,17 +184,6 @@ def render_svg(
     bar_w = 560
     y = append_language_block(
         lines,
-        "Top languages (all-time, by bytes)",
-        24,
-        y,
-        bar_x,
-        bar_w,
-        top_langs_all,
-        "barFillAll",
-    )
-    y += 26
-    append_language_block(
-        lines,
         f"Top languages (last {recent_days} days, by bytes in recently pushed repos)",
         24,
         y,
@@ -202,6 +191,17 @@ def render_svg(
         bar_w,
         top_langs_recent,
         "barFillRecent",
+    )
+    y += 40
+    append_language_block(
+        lines,
+        "Top languages (all-time, by bytes)",
+        24,
+        y,
+        bar_x,
+        bar_w,
+        top_langs_all,
+        "barFillAll",
     )
 
     lines.append("</svg>")

@@ -8,12 +8,6 @@ Senior Financial Engineer transitioning into a Solutions Architect / Customer En
   <img src="./profile-stats.svg" alt="Verified Profile Stats" />
 </p>
 
-<details>
-<summary>Supplemental metrics card</summary>
-
-![Metrics](./github-metrics.svg)
-</details>
-
 ## About Me
 
 - 💼 Senior Financial Engineer at Fannie Mae with hands-on delivery experience across enterprise financial systems
