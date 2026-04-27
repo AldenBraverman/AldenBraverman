@@ -4,7 +4,13 @@ Senior Financial Engineer transitioning into a Solutions Architect / Customer En
 
 ## GitHub Stats
 
+![Verified Profile Stats](./profile-stats.svg)
+
+<details>
+<summary>Supplemental metrics card</summary>
+
 ![Metrics](./github-metrics.svg)
+</details>
 
 ## About Me
 
