@@ -1,4 +1,48 @@
 {
-  "status": "pending_generation",
-  "message": "Run .github/workflows/profile-stats.yml to populate this file."
+  "username": "AldenBraverman",
+  "owned_repos_found": 69,
+  "repos_analyzed_non_forks": 64,
+  "stars_earned_total": 11,
+  "top_languages": [
+    {
+      "language": "C#",
+      "bytes": 4703219,
+      "percentage": 38.7249
+    },
+    {
+      "language": "JavaScript",
+      "bytes": 3789655,
+      "percentage": 31.2029
+    },
+    {
+      "language": "C++",
+      "bytes": 1405903,
+      "percentage": 11.5758
+    },
+    {
+      "language": "C",
+      "bytes": 555037,
+      "percentage": 4.57
+    },
+    {
+      "language": "CMake",
+      "bytes": 412558,
+      "percentage": 3.3969
+    },
+    {
+      "language": "Python",
+      "bytes": 355793,
+      "percentage": 2.9295
+    },
+    {
+      "language": "TypeScript",
+      "bytes": 231317,
+      "percentage": 1.9046
+    },
+    {
+      "language": "Shell",
+      "bytes": 171181,
+      "percentage": 1.4095
+    }
+  ]
 }
