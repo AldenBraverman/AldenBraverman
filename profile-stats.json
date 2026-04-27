@@ -2,8 +2,10 @@
   "username": "AldenBraverman",
   "owned_repos_found": 69,
   "repos_analyzed_non_forks": 64,
+  "recent_window_days": 180,
+  "recent_repos_pushed": 20,
   "stars_earned_total": 11,
-  "top_languages": [
+  "top_languages_all_time": [
     {
       "language": "C#",
       "bytes": 4703219,
@@ -43,6 +45,48 @@
       "language": "Shell",
       "bytes": 171181,
       "percentage": 1.4095
+    }
+  ],
+  "top_languages_recent_window": [
+    {
+      "language": "C++",
+      "bytes": 606034,
+      "percentage": 46.9406
+    },
+    {
+      "language": "JavaScript",
+      "bytes": 234465,
+      "percentage": 18.1606
+    },
+    {
+      "language": "Python",
+      "bytes": 144652,
+      "percentage": 11.2041
+    },
+    {
+      "language": "TypeScript",
+      "bytes": 126633,
+      "percentage": 9.8084
+    },
+    {
+      "language": "Swift",
+      "bytes": 87683,
+      "percentage": 6.7915
+    },
+    {
+      "language": "CMake",
+      "bytes": 29446,
+      "percentage": 2.2807
+    },
+    {
+      "language": "Shell",
+      "bytes": 17578,
+      "percentage": 1.3615
+    },
+    {
+      "language": "CSS",
+      "bytes": 16277,
+      "percentage": 1.2607
     }
   ]
 }
