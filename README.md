@@ -2,6 +2,10 @@
 
 Senior Financial Engineer transitioning into a Solutions Architect / Customer Engineer role in Financial Services.
 
+## GitHub Stats
+
+![Metrics](./github-metrics.svg)
+
 ## About Me
 
 - 💼 Senior Financial Engineer at Fannie Mae with hands-on delivery experience across enterprise financial systems
@@ -53,10 +57,6 @@ I am targeting Solutions Architect / Customer Engineer opportunities in Financia
 - **Focus:** Performance, real-time constraints, reliability
 - **Why it matters for SA/CE:** Demonstrates strong technical depth and practical problem-solving
 - **Repo(s):** Add your strongest C++ audio projects here
-
-## GitHub Stats
-
-![Metrics](./github-metrics.svg)
 
 ## Connect With Me
 
