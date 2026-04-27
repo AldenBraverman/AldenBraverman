@@ -56,27 +56,7 @@ I am targeting Solutions Architect / Customer Engineer opportunities in Financia
 
 ## GitHub Stats
 
-### Public + Private Stats (recommended)
-
-`github-readme-stats.vercel.app` only includes private repos if you self-host it with a token.
-
-Use this after you deploy your own instance:
-
-```md
-![GitHub Stats](https://<your-vercel-domain>/api?username=aldenbraverman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://<your-vercel-domain>/api/top-langs/?username=aldenbraverman&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-```
-
-### Metrics Card (already supports private repos via GitHub Action token)
-
-This repository already has `.github/workflows/github-stats.yml`.
-Add this to show the generated file:
-
-```md
 ![Metrics](./github-metrics.svg)
-```
-
-If the workflow is enabled and `METRICS_TOKEN` is configured, this file will update automatically.
 
 ## Connect With Me
 
