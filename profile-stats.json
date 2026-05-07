@@ -9,84 +9,84 @@
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 38.7141
+      "percentage": 38.7106
     },
     {
       "language": "JavaScript",
       "bytes": 3793063,
-      "percentage": 31.2222
+      "percentage": 31.2194
     },
     {
       "language": "C++",
       "bytes": 1405903,
-      "percentage": 11.5725
+      "percentage": 11.5715
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.5687
+      "percentage": 4.5683
     },
     {
       "language": "CMake",
       "bytes": 412558,
-      "percentage": 3.3959
+      "percentage": 3.3956
     },
     {
       "language": "Python",
       "bytes": 355793,
-      "percentage": 2.9287
+      "percentage": 2.9284
     },
     {
       "language": "TypeScript",
-      "bytes": 231317,
-      "percentage": 1.9041
+      "bytes": 232393,
+      "percentage": 1.9127
     },
     {
       "language": "Shell",
       "bytes": 171181,
-      "percentage": 1.4091
+      "percentage": 1.4089
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
       "bytes": 606034,
-      "percentage": 46.817
+      "percentage": 46.7781
     },
     {
       "language": "JavaScript",
       "bytes": 237873,
-      "percentage": 18.376
+      "percentage": 18.3608
     },
     {
       "language": "Python",
       "bytes": 144652,
-      "percentage": 11.1746
+      "percentage": 11.1653
     },
     {
       "language": "TypeScript",
-      "bytes": 126633,
-      "percentage": 9.7826
+      "bytes": 127709,
+      "percentage": 9.8575
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.7736
+      "percentage": 6.768
     },
     {
       "language": "CMake",
       "bytes": 29446,
-      "percentage": 2.2747
+      "percentage": 2.2729
     },
     {
       "language": "Shell",
       "bytes": 17578,
-      "percentage": 1.3579
+      "percentage": 1.3568
     },
     {
       "language": "CSS",
       "bytes": 16277,
-      "percentage": 1.2574
+      "percentage": 1.2564
     }
   ]
 }

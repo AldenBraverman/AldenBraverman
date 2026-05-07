@@ -19,18 +19,18 @@
 <text class="value" x="320" y="132">64 / 69</text>
 <text class="meta" x="24" y="166">Recent window: last 180 days (20 repos pushed)</text>
 <text class="label" x="24" y="188">Top languages (last 180 days, by bytes in recently pushed repos)</text>
-<text class="lang" x="24" y="229">C++ (46.82%)</text>
+<text class="lang" x="24" y="229">C++ (46.78%)</text>
 <rect class="barBg" x="290" y="214" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="214" width="262" height="16" />
-<text class="lang" x="24" y="259">JavaScript (18.38%)</text>
+<rect class="barFillRecent" x="290" y="214" width="261" height="16" />
+<text class="lang" x="24" y="259">JavaScript (18.36%)</text>
 <rect class="barBg" x="290" y="244" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="244" width="102" height="16" />
 <text class="lang" x="24" y="289">Python (11.17%)</text>
 <rect class="barBg" x="290" y="274" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="274" width="62" height="16" />
-<text class="lang" x="24" y="319">TypeScript (9.78%)</text>
+<text class="lang" x="24" y="319">TypeScript (9.86%)</text>
 <rect class="barBg" x="290" y="304" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="304" width="54" height="16" />
+<rect class="barFillRecent" x="290" y="304" width="55" height="16" />
 <text class="lang" x="24" y="349">Swift (6.77%)</text>
 <rect class="barBg" x="290" y="334" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="334" width="37" height="16" />
@@ -62,7 +62,7 @@
 <text class="lang" x="24" y="659">Python (2.93%)</text>
 <rect class="barBg" x="290" y="644" width="560" height="16" />
 <rect class="barFillAll" x="290" y="644" width="16" height="16" />
-<text class="lang" x="24" y="689">TypeScript (1.90%)</text>
+<text class="lang" x="24" y="689">TypeScript (1.91%)</text>
 <rect class="barBg" x="290" y="674" width="560" height="16" />
 <rect class="barFillAll" x="290" y="674" width="10" height="16" />
 <text class="lang" x="24" y="719">Shell (1.41%)</text>
