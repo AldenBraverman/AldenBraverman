@@ -9,84 +9,84 @@
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 38.7106
+      "percentage": 38.5537
     },
     {
       "language": "JavaScript",
       "bytes": 3793063,
-      "percentage": 31.2194
+      "percentage": 31.0929
     },
     {
       "language": "C++",
-      "bytes": 1405903,
-      "percentage": 11.5715
+      "bytes": 1421237,
+      "percentage": 11.6503
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.5683
+      "percentage": 4.5498
     },
     {
       "language": "CMake",
-      "bytes": 412558,
-      "percentage": 3.3956
+      "bytes": 414721,
+      "percentage": 3.3996
     },
     {
       "language": "Python",
-      "bytes": 355793,
-      "percentage": 2.9284
+      "bytes": 394596,
+      "percentage": 3.2346
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.9127
+      "percentage": 1.905
     },
     {
       "language": "Shell",
-      "bytes": 171181,
-      "percentage": 1.4089
+      "bytes": 164309,
+      "percentage": 1.3469
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
-      "bytes": 606034,
-      "percentage": 46.7781
+      "bytes": 621368,
+      "percentage": 46.1983
     },
     {
       "language": "JavaScript",
       "bytes": 237873,
-      "percentage": 18.3608
+      "percentage": 17.6857
     },
     {
       "language": "Python",
-      "bytes": 144652,
-      "percentage": 11.1653
+      "bytes": 183455,
+      "percentage": 13.6397
     },
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 9.8575
+      "percentage": 9.4951
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.768
+      "percentage": 6.5192
     },
     {
       "language": "CMake",
-      "bytes": 29446,
-      "percentage": 2.2729
-    },
-    {
-      "language": "Shell",
-      "bytes": 17578,
-      "percentage": 1.3568
+      "bytes": 31609,
+      "percentage": 2.3501
     },
     {
       "language": "CSS",
       "bytes": 16277,
-      "percentage": 1.2564
+      "percentage": 1.2102
+    },
+    {
+      "language": "HTML",
+      "bytes": 15691,
+      "percentage": 1.1666
     }
   ]
 }
