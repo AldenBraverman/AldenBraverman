@@ -13,7 +13,7 @@
     },
     {
       "language": "JavaScript",
-      "bytes": 3793063,
+      "bytes": 3793072,
       "percentage": 31.0929
     },
     {
@@ -51,12 +51,12 @@
     {
       "language": "C++",
       "bytes": 621368,
-      "percentage": 46.1983
+      "percentage": 46.198
     },
     {
       "language": "JavaScript",
-      "bytes": 237873,
-      "percentage": 17.6857
+      "bytes": 237882,
+      "percentage": 17.6862
     },
     {
       "language": "Python",
@@ -66,12 +66,12 @@
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 9.4951
+      "percentage": 9.495
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.5192
+      "percentage": 6.5191
     },
     {
       "language": "CMake",
