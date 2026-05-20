@@ -1,92 +1,92 @@
 {
   "username": "AldenBraverman",
-  "owned_repos_found": 69,
-  "repos_analyzed_non_forks": 64,
+  "owned_repos_found": 70,
+  "repos_analyzed_non_forks": 65,
   "recent_window_days": 180,
-  "recent_repos_pushed": 20,
+  "recent_repos_pushed": 21,
   "stars_earned_total": 11,
   "top_languages_all_time": [
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 38.3867
+      "percentage": 38.309
     },
     {
       "language": "JavaScript",
       "bytes": 3815249,
-      "percentage": 31.1392
+      "percentage": 31.0762
     },
     {
       "language": "C++",
-      "bytes": 1443511,
-      "percentage": 11.7816
+      "bytes": 1464581,
+      "percentage": 11.9294
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.5301
+      "percentage": 4.5209
     },
     {
       "language": "CMake",
-      "bytes": 416511,
-      "percentage": 3.3995
+      "bytes": 416997,
+      "percentage": 3.3966
     },
     {
       "language": "Python",
       "bytes": 399129,
-      "percentage": 3.2576
+      "percentage": 3.251
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.8967
+      "percentage": 1.8929
     },
     {
       "language": "Shell",
-      "bytes": 165351,
-      "percentage": 1.3496
+      "bytes": 168646,
+      "percentage": 1.3737
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
-      "bytes": 643642,
-      "percentage": 46.0373
+      "bytes": 664712,
+      "percentage": 46.714
     },
     {
       "language": "JavaScript",
       "bytes": 260059,
-      "percentage": 18.601
+      "percentage": 18.2762
     },
     {
       "language": "Python",
       "bytes": 187988,
-      "percentage": 13.4461
+      "percentage": 13.2112
     },
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 9.1345
+      "percentage": 8.975
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.2716
+      "percentage": 6.1621
     },
     {
       "language": "CMake",
-      "bytes": 33399,
-      "percentage": 2.3889
+      "bytes": 33885,
+      "percentage": 2.3813
     },
     {
       "language": "CSS",
       "bytes": 17538,
-      "percentage": 1.2544
+      "percentage": 1.2325
     },
     {
       "language": "HTML",
       "bytes": 15691,
-      "percentage": 1.1223
+      "percentage": 1.1027
     }
   ]
 }
