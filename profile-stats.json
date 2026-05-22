@@ -9,84 +9,84 @@
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 38.309
+      "percentage": 38.282
     },
     {
       "language": "JavaScript",
       "bytes": 3815249,
-      "percentage": 31.0762
+      "percentage": 31.0544
     },
     {
       "language": "C++",
-      "bytes": 1464581,
-      "percentage": 11.9294
+      "bytes": 1473224,
+      "percentage": 11.9914
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.5209
+      "percentage": 4.5177
     },
     {
       "language": "CMake",
       "bytes": 416997,
-      "percentage": 3.3966
+      "percentage": 3.3942
     },
     {
       "language": "Python",
       "bytes": 399129,
-      "percentage": 3.251
+      "percentage": 3.2487
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.8929
+      "percentage": 1.8916
     },
     {
       "language": "Shell",
       "bytes": 168646,
-      "percentage": 1.3737
+      "percentage": 1.3727
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
-      "bytes": 664712,
-      "percentage": 46.714
+      "bytes": 673355,
+      "percentage": 47.0357
     },
     {
       "language": "JavaScript",
       "bytes": 260059,
-      "percentage": 18.2762
+      "percentage": 18.1658
     },
     {
       "language": "Python",
       "bytes": 187988,
-      "percentage": 13.2112
+      "percentage": 13.1315
     },
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 8.975
+      "percentage": 8.9208
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.1621
+      "percentage": 6.1249
     },
     {
       "language": "CMake",
       "bytes": 33885,
-      "percentage": 2.3813
+      "percentage": 2.367
     },
     {
       "language": "CSS",
       "bytes": 17538,
-      "percentage": 1.2325
+      "percentage": 1.2251
     },
     {
       "language": "HTML",
       "bytes": 15691,
-      "percentage": 1.1027
+      "percentage": 1.0961
     }
   ]
 }
