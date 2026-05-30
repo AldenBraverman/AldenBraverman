@@ -9,84 +9,84 @@
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 38.2465
+      "percentage": 38.1644
     },
     {
       "language": "JavaScript",
       "bytes": 3815239,
-      "percentage": 31.0255
+      "percentage": 30.9589
     },
     {
       "language": "C++",
-      "bytes": 1480296,
-      "percentage": 12.0377
+      "bytes": 1506685,
+      "percentage": 12.226
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.5136
+      "percentage": 4.5039
     },
     {
       "language": "CMake",
-      "bytes": 416997,
-      "percentage": 3.391
+      "bytes": 417068,
+      "percentage": 3.3843
     },
     {
       "language": "Python",
       "bytes": 399129,
-      "percentage": 3.2457
+      "percentage": 3.2387
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.8898
+      "percentage": 1.8858
     },
     {
       "language": "Shell",
       "bytes": 172990,
-      "percentage": 1.4068
+      "percentage": 1.4037
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
-      "bytes": 680427,
-      "percentage": 47.154
+      "bytes": 706816,
+      "percentage": 48.1008
     },
     {
       "language": "JavaScript",
       "bytes": 260049,
-      "percentage": 18.0216
+      "percentage": 17.697
     },
     {
       "language": "Python",
       "bytes": 187988,
-      "percentage": 13.0277
+      "percentage": 12.7931
     },
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 8.8503
+      "percentage": 8.6909
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 6.0765
+      "percentage": 5.9671
     },
     {
       "language": "CMake",
-      "bytes": 33885,
-      "percentage": 2.3483
+      "bytes": 33956,
+      "percentage": 2.3108
     },
     {
       "language": "Shell",
       "bytes": 19387,
-      "percentage": 1.3435
+      "percentage": 1.3193
     },
     {
       "language": "CSS",
       "bytes": 17538,
-      "percentage": 1.2154
+      "percentage": 1.1935
     }
   ]
 }
