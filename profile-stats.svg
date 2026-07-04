@@ -19,53 +19,53 @@
 <text class="value" x="320" y="132">65 / 70</text>
 <text class="meta" x="24" y="166">Recent window: last 180 days (21 repos pushed)</text>
 <text class="label" x="24" y="188">Top languages (last 180 days, by bytes in recently pushed repos)</text>
-<text class="lang" x="24" y="229">C++ (49.18%)</text>
+<text class="lang" x="24" y="229">C++ (44.85%)</text>
 <rect class="barBg" x="290" y="214" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="214" width="275" height="16" />
-<text class="lang" x="24" y="259">JavaScript (17.33%)</text>
+<rect class="barFillRecent" x="290" y="214" width="251" height="16" />
+<text class="lang" x="24" y="259">Python (23.87%)</text>
 <rect class="barBg" x="290" y="244" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="244" width="97" height="16" />
-<text class="lang" x="24" y="289">Python (12.52%)</text>
+<rect class="barFillRecent" x="290" y="244" width="133" height="16" />
+<text class="lang" x="24" y="289">JavaScript (15.59%)</text>
 <rect class="barBg" x="290" y="274" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="274" width="70" height="16" />
-<text class="lang" x="24" y="319">TypeScript (8.51%)</text>
+<rect class="barFillRecent" x="290" y="274" width="87" height="16" />
+<text class="lang" x="24" y="319">TypeScript (5.33%)</text>
 <rect class="barBg" x="290" y="304" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="304" width="47" height="16" />
-<text class="lang" x="24" y="349">Swift (5.84%)</text>
+<rect class="barFillRecent" x="290" y="304" width="29" height="16" />
+<text class="lang" x="24" y="349">Swift (3.66%)</text>
 <rect class="barBg" x="290" y="334" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="334" width="32" height="16" />
-<text class="lang" x="24" y="379">CMake (2.27%)</text>
+<rect class="barFillRecent" x="290" y="334" width="20" height="16" />
+<text class="lang" x="24" y="379">CMake (1.69%)</text>
 <rect class="barBg" x="290" y="364" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="364" width="12" height="16" />
-<text class="lang" x="24" y="409">Shell (1.29%)</text>
+<rect class="barFillRecent" x="290" y="364" width="9" height="16" />
+<text class="lang" x="24" y="409">HTML (1.49%)</text>
 <rect class="barBg" x="290" y="394" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="394" width="7" height="16" />
-<text class="lang" x="24" y="439">CSS (1.17%)</text>
+<rect class="barFillRecent" x="290" y="394" width="8" height="16" />
+<text class="lang" x="24" y="439">Shell (1.10%)</text>
 <rect class="barBg" x="290" y="424" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="424" width="6" height="16" />
 <text class="label" x="24" y="468">Top languages (all-time, by bytes)</text>
-<text class="lang" x="24" y="509">C# (38.07%)</text>
+<text class="lang" x="24" y="509">C# (35.49%)</text>
 <rect class="barBg" x="290" y="494" width="560" height="16" />
-<rect class="barFillAll" x="290" y="494" width="213" height="16" />
-<text class="lang" x="24" y="539">JavaScript (30.88%)</text>
+<rect class="barFillAll" x="290" y="494" width="198" height="16" />
+<text class="lang" x="24" y="539">JavaScript (29.65%)</text>
 <rect class="barBg" x="290" y="524" width="560" height="16" />
-<rect class="barFillAll" x="290" y="524" width="172" height="16" />
-<text class="lang" x="24" y="569">C++ (12.45%)</text>
+<rect class="barFillAll" x="290" y="524" width="166" height="16" />
+<text class="lang" x="24" y="569">C++ (14.15%)</text>
 <rect class="barBg" x="290" y="554" width="560" height="16" />
-<rect class="barFillAll" x="290" y="554" width="69" height="16" />
-<text class="lang" x="24" y="599">C (4.49%)</text>
+<rect class="barFillAll" x="290" y="554" width="79" height="16" />
+<text class="lang" x="24" y="599">Python (5.91%)</text>
 <rect class="barBg" x="290" y="584" width="560" height="16" />
-<rect class="barFillAll" x="290" y="584" width="25" height="16" />
-<text class="lang" x="24" y="629">CMake (3.38%)</text>
+<rect class="barFillAll" x="290" y="584" width="33" height="16" />
+<text class="lang" x="24" y="629">C (4.19%)</text>
 <rect class="barBg" x="290" y="614" width="560" height="16" />
-<rect class="barFillAll" x="290" y="614" width="18" height="16" />
-<text class="lang" x="24" y="659">Python (3.23%)</text>
+<rect class="barFillAll" x="290" y="614" width="23" height="16" />
+<text class="lang" x="24" y="659">CMake (3.20%)</text>
 <rect class="barBg" x="290" y="644" width="560" height="16" />
-<rect class="barFillAll" x="290" y="644" width="18" height="16" />
-<text class="lang" x="24" y="689">TypeScript (1.88%)</text>
+<rect class="barFillAll" x="290" y="644" width="17" height="16" />
+<text class="lang" x="24" y="689">TypeScript (1.75%)</text>
 <rect class="barBg" x="290" y="674" width="560" height="16" />
-<rect class="barFillAll" x="290" y="674" width="10" height="16" />
-<text class="lang" x="24" y="719">Shell (1.40%)</text>
+<rect class="barFillAll" x="290" y="674" width="9" height="16" />
+<text class="lang" x="24" y="719">Shell (1.36%)</text>
 <rect class="barBg" x="290" y="704" width="560" height="16" />
 <rect class="barFillAll" x="290" y="704" width="7" height="16" />
 </svg>
