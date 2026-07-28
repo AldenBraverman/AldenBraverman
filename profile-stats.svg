@@ -17,30 +17,30 @@
 <text class="value" x="24" y="132">11</text>
 <text class="label" x="320" y="102">Owned repos scanned</text>
 <text class="value" x="320" y="132">65 / 71</text>
-<text class="meta" x="24" y="166">Recent window: last 180 days (21 repos pushed)</text>
+<text class="meta" x="24" y="166">Recent window: last 180 days (20 repos pushed)</text>
 <text class="label" x="24" y="188">Top languages (last 180 days, by bytes in recently pushed repos)</text>
-<text class="lang" x="24" y="229">C++ (44.85%)</text>
+<text class="lang" x="24" y="229">C++ (43.85%)</text>
 <rect class="barBg" x="290" y="214" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="214" width="251" height="16" />
-<text class="lang" x="24" y="259">Python (23.87%)</text>
+<rect class="barFillRecent" x="290" y="214" width="245" height="16" />
+<text class="lang" x="24" y="259">Python (24.34%)</text>
 <rect class="barBg" x="290" y="244" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="244" width="133" height="16" />
-<text class="lang" x="24" y="289">JavaScript (15.59%)</text>
+<rect class="barFillRecent" x="290" y="244" width="136" height="16" />
+<text class="lang" x="24" y="289">JavaScript (15.90%)</text>
 <rect class="barBg" x="290" y="274" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="274" width="87" height="16" />
-<text class="lang" x="24" y="319">TypeScript (5.33%)</text>
+<rect class="barFillRecent" x="290" y="274" width="89" height="16" />
+<text class="lang" x="24" y="319">TypeScript (5.43%)</text>
 <rect class="barBg" x="290" y="304" width="560" height="16" />
-<rect class="barFillRecent" x="290" y="304" width="29" height="16" />
-<text class="lang" x="24" y="349">Swift (3.66%)</text>
+<rect class="barFillRecent" x="290" y="304" width="30" height="16" />
+<text class="lang" x="24" y="349">Swift (3.73%)</text>
 <rect class="barBg" x="290" y="334" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="334" width="20" height="16" />
-<text class="lang" x="24" y="379">CMake (1.69%)</text>
+<text class="lang" x="24" y="379">CMake (1.66%)</text>
 <rect class="barBg" x="290" y="364" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="364" width="9" height="16" />
-<text class="lang" x="24" y="409">HTML (1.49%)</text>
+<text class="lang" x="24" y="409">HTML (1.52%)</text>
 <rect class="barBg" x="290" y="394" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="394" width="8" height="16" />
-<text class="lang" x="24" y="439">Shell (1.10%)</text>
+<text class="lang" x="24" y="439">Shell (1.12%)</text>
 <rect class="barBg" x="290" y="424" width="560" height="16" />
 <rect class="barFillRecent" x="290" y="424" width="6" height="16" />
 <text class="label" x="24" y="468">Top languages (all-time, by bytes)</text>
