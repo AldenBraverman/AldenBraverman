@@ -3,7 +3,7 @@
   "owned_repos_found": 71,
   "repos_analyzed_non_forks": 65,
   "recent_window_days": 180,
-  "recent_repos_pushed": 20,
+  "recent_repos_pushed": 19,
   "stars_earned_total": 11,
   "top_languages_all_time": [
     {
@@ -51,42 +51,42 @@
     {
       "language": "C++",
       "bytes": 1031571,
-      "percentage": 43.8474
+      "percentage": 46.9546
     },
     {
       "language": "Python",
-      "bytes": 572551,
-      "percentage": 24.3365
+      "bytes": 489983,
+      "percentage": 22.3028
     },
     {
       "language": "JavaScript",
-      "bytes": 373983,
-      "percentage": 15.8963
+      "bytes": 302621,
+      "percentage": 13.7746
     },
     {
       "language": "TypeScript",
       "bytes": 127709,
-      "percentage": 5.4283
+      "percentage": 5.813
     },
     {
       "language": "Swift",
       "bytes": 87683,
-      "percentage": 3.727
+      "percentage": 3.9911
     },
     {
       "language": "CMake",
       "bytes": 38961,
-      "percentage": 1.6561
+      "percentage": 1.7734
     },
     {
       "language": "HTML",
       "bytes": 35844,
-      "percentage": 1.5236
+      "percentage": 1.6315
     },
     {
       "language": "Shell",
-      "bytes": 26442,
-      "percentage": 1.1239
+      "bytes": 24686,
+      "percentage": 1.1236
     }
   ]
 }
