@@ -1,4 +1,5 @@
 Senior Financial Engineer @ Fannie Mae
+
 Audio Software Engineer (ex Hexagram.io)
 
 ## GitHub Stats
