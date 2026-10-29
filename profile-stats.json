@@ -1,92 +1,92 @@
 {
   "username": "AldenBraverman",
-  "owned_repos_found": 71,
-  "repos_analyzed_non_forks": 65,
+  "owned_repos_found": 72,
+  "repos_analyzed_non_forks": 66,
   "recent_window_days": 180,
-  "recent_repos_pushed": 9,
+  "recent_repos_pushed": 10,
   "stars_earned_total": 11,
   "top_languages_all_time": [
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 35.4897
+      "percentage": 35.3705
     },
     {
       "language": "JavaScript",
       "bytes": 3929173,
-      "percentage": 29.6489
+      "percentage": 29.5493
     },
     {
       "language": "C++",
       "bytes": 1875541,
-      "percentage": 14.1525
+      "percentage": 14.105
     },
     {
       "language": "Python",
-      "bytes": 783692,
-      "percentage": 5.9136
+      "bytes": 828344,
+      "percentage": 6.2296
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.1882
+      "percentage": 4.1742
     },
     {
       "language": "CMake",
       "bytes": 423544,
-      "percentage": 3.196
+      "percentage": 3.1853
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.7536
+      "percentage": 1.7477
     },
     {
       "language": "Shell",
       "bytes": 180045,
-      "percentage": 1.3586
+      "percentage": 1.354
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
       "bytes": 778089,
-      "percentage": 43.4546
+      "percentage": 42.3973
     },
     {
       "language": "Python",
-      "bytes": 478387,
-      "percentage": 26.7169
+      "bytes": 523039,
+      "percentage": 28.4999
     },
     {
       "language": "JavaScript",
       "bytes": 301424,
-      "percentage": 16.8339
+      "percentage": 16.4243
     },
     {
       "language": "TypeScript",
       "bytes": 94233,
-      "percentage": 5.2627
+      "percentage": 5.1347
     },
     {
       "language": "HTML",
       "bytes": 35237,
-      "percentage": 1.9679
+      "percentage": 1.92
     },
     {
       "language": "CMake",
       "bytes": 25820,
-      "percentage": 1.442
+      "percentage": 1.4069
     },
     {
       "language": "Max",
       "bytes": 23686,
-      "percentage": 1.3228
+      "percentage": 1.2906
     },
     {
       "language": "Shell",
       "bytes": 21838,
-      "percentage": 1.2196
+      "percentage": 1.1899
     }
   ]
 }
