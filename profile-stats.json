@@ -9,84 +9,84 @@
     {
       "language": "C#",
       "bytes": 4703219,
-      "percentage": 34.9668
+      "percentage": 34.8888
     },
     {
       "language": "JavaScript",
-      "bytes": 3929173,
-      "percentage": 29.212
+      "bytes": 3953084,
+      "percentage": 29.3243
     },
     {
       "language": "C++",
       "bytes": 1875541,
-      "percentage": 13.944
+      "percentage": 13.9129
     },
     {
       "language": "Python",
       "bytes": 981894,
-      "percentage": 7.3
+      "percentage": 7.2838
     },
     {
       "language": "C",
       "bytes": 555037,
-      "percentage": 4.1265
+      "percentage": 4.1173
     },
     {
       "language": "CMake",
       "bytes": 423544,
-      "percentage": 3.1489
+      "percentage": 3.1419
     },
     {
       "language": "TypeScript",
       "bytes": 232393,
-      "percentage": 1.7278
+      "percentage": 1.7239
     },
     {
       "language": "Shell",
       "bytes": 180045,
-      "percentage": 1.3386
+      "percentage": 1.3356
     }
   ],
   "top_languages_recent_window": [
     {
       "language": "C++",
       "bytes": 778089,
-      "percentage": 39.1239
+      "percentage": 38.5417
     },
     {
       "language": "Python",
       "bytes": 676589,
-      "percentage": 34.0203
+      "percentage": 33.514
     },
     {
       "language": "JavaScript",
-      "bytes": 301424,
-      "percentage": 15.1562
+      "bytes": 325335,
+      "percentage": 16.1151
     },
     {
       "language": "TypeScript",
       "bytes": 94233,
-      "percentage": 4.7382
+      "percentage": 4.6677
     },
     {
       "language": "HTML",
-      "bytes": 35237,
-      "percentage": 1.7718
+      "bytes": 37441,
+      "percentage": 1.8546
     },
     {
       "language": "CMake",
       "bytes": 25820,
-      "percentage": 1.2983
+      "percentage": 1.279
     },
     {
       "language": "Max",
       "bytes": 23686,
-      "percentage": 1.191
+      "percentage": 1.1733
     },
     {
       "language": "Shell",
       "bytes": 21838,
-      "percentage": 1.0981
+      "percentage": 1.0817
     }
   ]
 }
